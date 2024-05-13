@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-basics/Variables.md",
+                "file": "00-basics/Variables/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-basics/Variables.md",
+                "file": "00-basics/Variables/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-basics/Variables.md",
+                "file": "00-basics/Variables/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-basics/Variables.md"
+                "file": "00-basics/Variables/Variables.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "4edef388ecaa58a1",
   "lastOpenFiles": [
-    "00-basics/Variables~.md",
+    "00-basics/Variables/let-keyword.md",
+    "00-basics/Variables/let-keyword.lisp",
+    "00-basics/Variables/untitled file.md",
     "00-basics/Variables.md",
+    "00-basics/Variables/Variables.md",
+    "00-basics/Variables",
+    "00-basics/untitled folder",
+    "00-basics/Variables~.md",
     "02-flow-control",
     "01-builtins",
     "00-basics",
