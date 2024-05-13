@@ -148,6 +148,11 @@
   },
   "active": "4edef388ecaa58a1",
   "lastOpenFiles": [
+    "keyword-symbols.txt",
+    "00-basics/Variables/defparameter-keyword.lisp",
+    "00-basics/Variables/untitled file.lisp",
+    "00-basics/Variables/defvar-keyword.lisp",
+    "test.lisp",
     "00-basics/Variables/let-keyword.md",
     "00-basics/Variables/let-keyword.lisp",
     "00-basics/Variables/untitled file.md",
@@ -158,8 +163,6 @@
     "00-basics/Variables~.md",
     "02-flow-control",
     "01-builtins",
-    "00-basics",
-    "untitled file.c",
-    "untitled file.cs"
+    "00-basics"
   ]
 }
