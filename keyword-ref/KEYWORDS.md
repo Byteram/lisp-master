@@ -142,48 +142,340 @@
 - **Usage**: Used in scheduling, planning, or time management contexts.
 - **Example**: Represents a full workday or standard shift duration.
 
-=
-?
-A
-ABBREVIATED
-ABORT
-ABORTED
-ABOVE
-ABSOLUTE
-ABSOLUTE-P
-ACCEPT
-ACCESSOR
-ACCRUED-EXCEPTIONS
-ACTION
-ACTIVE
-ADAPTIVE
-ADDRESS
-ADJUSTABLE
-ADLAM
-AEGEAN-NUMBERS
-AFTER
-AFTER-SC-SELECTION
-AGGRESSIVE
-AHOM
-AI
-AL
-ALCHEMICAL-SYMBOLS
-ALETTER
-ALIAS
-ALIAS-TNS
-ALIEN
-ALIEN-CALLBACKS
-ALIEN-CODE-LINKAGE-INDEX
-ALIEN-DATA-LINKAGE-INDEX
-ALIEN-INFO
-ALIEN-NAME
-ALIEN-REP
-ALIEN-TYPE
-ALIGN
-ALIGNED
-ALIGNED-STACK
-ALIGNMENT
-ALIGNMENT-ANNOTATIONS
+### `=`
+
+- **Description**: Represents an assignment or equality operator in programming languages.
+- **Usage**: Used to assign a value to a variable or to compare two values for equality.
+- **Example**: `x = 10` assigns the value 10 to variable `x`.
+
+---
+
+### `?`
+
+- **Description**: Typically denotes a wildcard or placeholder in various contexts.
+- **Usage**: Used in regular expressions, command-line utilities, and interactive shells.
+- **Example**: In Unix/Linux shells, `?` matches any single character in file name patterns.
+
+---
+
+### `A`
+
+- **Description**: Represents various meanings depending on context, often used as a placeholder or variable name.
+- **Usage**: Used in programming languages, mathematics, and symbolic computations.
+- **Example**: `A` can represent a matrix in mathematics or a variable name in programming.
+
+---
+
+### `ABBREVIATED`
+
+- **Description**: Indicates something shortened or condensed.
+- **Usage**: Used to describe abbreviated forms of words, expressions, or data formats.
+- **Example**: An abbreviated version of a word might be "info" for "information".
+
+---
+
+### `ABORT`
+
+- **Description**: Halts or terminates a process or operation prematurely.
+- **Usage**: Used in programming to stop execution and handle exceptional conditions.
+- **Example**: `ABORT` might be used in error handling to exit a program immediately upon encountering a critical error.
+
+---
+
+### `ABORTED`
+
+- **Description**: Indicates that something has been terminated or halted prematurely.
+- **Usage**: Used in status reports or logs to indicate an aborted process.
+- **Example**: A log entry might say "Process aborted due to timeout."
+
+---
+
+### `ABOVE`
+
+- **Description**: Refers to something higher in position or level.
+- **Usage**: Used in programming, mathematics, and logic to denote higher values or positions.
+- **Example**: `x > 5` tests if `x` is above 5.
+
+---
+
+### `ABSOLUTE`
+
+- **Description**: Unconditional and without regard to context or conditions.
+- **Usage**: Used to specify values or references that are not relative or dependent on other factors.
+- **Example**: Absolute values in mathematics are always non-negative.
+
+---
+
+### `ABSOLUTE-P`
+
+- **Description**: Checks whether something is absolute or unconditional.
+- **Usage**: Used in programming to determine if a condition or reference is absolute.
+- **Example**: In Lisp, `(absolute-p x)` checks if `x` is an absolute value.
+
+---
+
+### `ACCEPT`
+
+- **Description**: Receives or takes in something offered or provided.
+- **Usage**: Used in programming to receive input from users or other processes.
+- **Example**: `ACCEPT` function in Lisp reads user input from the standard input stream.
+
+---
+
+### `ACCESSOR`
+
+- **Description**: Refers to a function or method that retrieves or sets the value of a data member.
+- **Usage**: Used in object-oriented programming to encapsulate data access.
+- **Example**: In Common Lisp, an accessor for a slot `x` in class `A` might be `(a-x obj)`.
+
+---
+
+### `ACCRUED-EXCEPTIONS`
+
+- **Description**: Refers to exceptions or errors that have accumulated over time.
+- **Usage**: Used in error handling and debugging contexts to track accumulated exceptions.
+- **Example**: A debugging tool might list accrued exceptions during a program's execution.
+
+---
+
+### `ACTION`
+
+- **Description**: Refers to something performed or executed.
+- **Usage**: Used in programming to describe tasks, operations, or behaviors.
+- **Example**: An "action" in an event-driven system might be responding to a user click.
+
+---
+
+### `ACTIVE`
+
+- **Description**: Indicates something currently operating, engaged, or in use.
+- **Usage**: Used in various contexts to denote ongoing or live status.
+- **Example**: A process or thread is "active" if it's currently executing.
+
+---
+
+### `ADAPTIVE`
+
+- **Description**: Able to change or adjust based on conditions or inputs.
+- **Usage**: Used in algorithms or systems that adjust behavior dynamically.
+- **Example**: Adaptive learning algorithms adjust their parameters based on training data.
+
+---
+
+### `ADDRESS`
+
+- **Description**: Refers to the location or identifier of a resource in memory or a network.
+- **Usage**: Used in computing to specify where data resides.
+- **Example**: An IP address identifies a device on a network.
+
+---
+
+### `ADJUSTABLE`
+
+- **Description**: Capable of being modified or changed.
+- **Usage**: Used to describe parameters, settings, or data structures that can be adjusted.
+- **Example**: Adjustable parameters in a program might control behavior or performance.
+
+---
+
+### `ADLAM`
+
+- **Description**: Refers to the Adlam script used for writing the Fulani language.
+- **Usage**: Used in linguistics and cultural studies related to African languages.
+- **Example**: Adlam script characters are used for writing texts in Fulani.
+
+---
+
+### `AEGEAN-NUMBERS`
+
+- **Description**: Refers to numeric symbols used in the ancient Aegean scripts.
+- **Usage**: Used in historical and archaeological studies.
+- **Example**: Aegean numbers were used in ancient Minoan and Mycenaean cultures.
+
+---
+
+### `AFTER`
+
+- **Description**: Indicates something following in time or order.
+- **Usage**: Used in programming and logic to specify sequence or timing.
+- **Example**: In Lisp, `(after :before (print "Hello"))` executes after printing "Hello".
+
+---
+
+### `AFTER-SC-SELECTION`
+
+- **Description**: Refers to actions or behavior following selective service continuation.
+- **Usage**: Used in programming environments or scheduling contexts.
+- **Example**: After-sc-selection might involve tasks that occur after a specific condition is met.
+
+---
+
+### `AGGRESSIVE`
+
+- **Description**: Indicates behavior that is assertive, forceful, or proactive.
+- **Usage**: Used in programming contexts to describe optimization strategies or compiler behaviors.
+- **Example**: An aggressive compiler optimization might aggressively inline functions for performance.
+
+---
+
+### `AHOM`
+
+- **Description**: Refers to the Ahom script used for writing the Ahom language.
+- **Usage**: Used in linguistics and cultural studies related to the Ahom people of Southeast Asia.
+- **Example**: Ahom script characters are used for historical records and manuscripts.
+
+---
+
+### `AI`
+
+- **Description**: Abbreviation for Artificial Intelligence.
+- **Usage**: Used in computer science and technology to refer to machines or systems that simulate human intelligence.
+- **Example**: AI algorithms can perform tasks such as speech recognition and decision-making.
+
+---
+
+### `AL`
+
+- **Description**: Refers to the programming language ALGOL.
+- **Usage**: Used historically in computing to describe ALGOL-related features or systems.
+- **Example**: ALGOL was one of the earliest high-level programming languages.
+
+---
+
+### `ALCHEMICAL-SYMBOLS`
+
+- **Description**: Refers to symbols used in alchemy to represent elements, compounds, and processes.
+- **Usage**: Used in historical and symbolic contexts related to alchemy and chemistry.
+- **Example**: Alchemical symbols include icons like the philosopher's stone and symbols for metals.
+
+---
+
+### `ALETTER`
+
+- **Description**: Refers to a classification of characters in Unicode representing letter-like symbols.
+- **Usage**: Used in character encoding and text processing to categorize symbols that resemble letters.
+- **Example**: Some emoji characters are classified as ALetter in Unicode.
+
+---
+
+### `ALIAS`
+
+- **Description**: Represents an alternative or secondary name or identifier for something.
+- **Usage**: Used in programming to create alternate references or shortcuts to variables, functions, or objects.
+- **Example**: `alias` in Unix/Linux creates a shortcut to a command or program.
+
+---
+
+### `ALIAS-TNS`
+
+- **Description**: Refers to an alias for Transparent Network Substrate (TNS) in Oracle database configurations.
+- **Usage**: Used in database administration and configuration for managing network connections.
+- **Example**: Alias-TNS allows Oracle clients to connect to database instances using simplified network configurations.
+
+---
+
+### `ALIEN`
+
+- **Description**: Refers to foreign or external entities or data structures in a programming environment.
+- **Usage**: Used in Lisp and other languages to interface with external libraries or foreign data.
+- **Example**: An alien data structure might be a C struct accessed from Lisp using foreign function interface (FFI).
+
+---
+
+### `ALIEN-CALLBACKS`
+
+- **Description**: Refers to functions or procedures defined outside the current programming environment.
+- **Usage**: Used in systems programming and APIs to handle callbacks from external sources or events.
+- **Example**: Registering an alien callback allows a program to respond to events generated by external systems.
+
+---
+
+### `ALIEN-CODE-LINKAGE-INDEX`
+
+- **Description**: Refers to an index or identifier used in linking code modules across different programming environments.
+- **Usage**: Used in compiler design and low-level programming to manage cross-language dependencies.
+- **Example**: Alien-code-linkage-index facilitates calling functions written in one language (e.g., C) from another (e.g., Lisp).
+
+---
+
+### `ALIEN-DATA-LINKAGE-INDEX`
+
+- **Description**: Refers to an index or identifier used in linking data structures across different programming environments.
+- **Usage**: Used in systems programming and FFI to exchange complex data between different language runtimes.
+- **Example**: Alien-data-linkage-index manages memory layout and data representation compatibility between languages.
+
+---
+
+### `ALIEN-INFO`
+
+- **Description**: Provides metadata or descriptive information about alien entities or data structures.
+- **Usage**: Used in programming environments and FFI to document and manage external resources.
+- **Example**: Alien-info might include documentation on memory layout, function signatures, or data alignment requirements.
+
+---
+
+### `ALIEN-NAME`
+
+- **Description**: Refers to a symbolic or textual identifier for an alien entity or resource.
+- **Usage**: Used in programming and FFI to reference external functions, variables, or libraries.
+- **Example**: Alien-name specifies the name of a function to be called from within a Lisp program.
+
+---
+
+### `ALIEN-REP`
+
+- **Description**: Represents the internal representation or structure of an alien entity.
+- **Usage**: Used in FFI and low-level programming to describe how external data is represented internally.
+- **Example**: Alien-rep details the byte order, padding, and alignment of data structures accessed via FFI.
+
+---
+
+### `ALIEN-TYPE`
+
+- **Description**: Refers to the data type or class of an alien entity or resource.
+- **Usage**: Used in programming and FFI to specify the type of data being accessed or manipulated.
+- **Example**: Alien-type defines whether a foreign function expects integers, floats, or complex data structures.
+
+---
+
+### `ALIGN`
+
+- **Description**: Aligns or positions something relative to a reference point or boundary.
+- **Usage**: Used in programming to ensure data structures are stored in memory with specified alignment rules.
+- **Example**: Aligning data structures to word boundaries optimizes memory access and performance.
+
+---
+
+### `ALIGNED`
+
+- **Description**: Indicates that something is arranged or positioned in a specified manner or order.
+- **Usage**: Used in programming and data processing to describe well-structured or organized data.
+- **Example**: Aligned memory accesses improve performance by reducing memory access latency.
+
+---
+
+### `ALIGNED-STACK`
+
+- **Description**: Refers to a memory region or data structure where stack frames are aligned.
+- **Usage**: Used in compiler design and runtime environments to optimize stack usage and performance.
+- **Example**: Aligned-stack ensures that stack frames begin at memory addresses aligned to specific boundaries.
+
+---
+
+### `ALIGNMENT`
+
+- **Description**: Refers to the arrangement or positioning of data elements in memory or storage.
+- **Usage**: Used in programming and computer architecture to optimize memory usage and performance.
+- **Example**: Data alignment ensures that data structures are stored efficiently in memory.
+
+---
+
+### `ALIGNMENT-ANNOTATIONS`
+
+- **Description**: Provides additional information or metadata about data alignment rules or requirements.
+- **Usage**: Used in compiler directives or programming annotations to manage memory layout.
+- **Example**: Alignment-annotations specify padding or packing rules for structures in C programming.
+
 ALIST
 ALL
 ALLOC-POINTS
